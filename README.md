@@ -1,5 +1,5 @@
 # LED-Pattern-Generator-using-8086-and-8255-PPI
-# LED Pattern Generator using 8086 and 8255 PPI
+
 
 ## Overview
 
